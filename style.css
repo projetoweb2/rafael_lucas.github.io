@@ -17,6 +17,7 @@ h2 {
   line-height: 43px;
   margin: 40px 0 4px -1.8px;
 }
+span { font-weight: bold;}
 
 .div-01 { margin-top: 30px; text-align: center;}
 .foto { border-radius: 50%; margin: 0 auto; max-width: 100%;}
