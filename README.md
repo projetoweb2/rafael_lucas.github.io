@@ -1,2 +1,2 @@
 # Minha visão de alguns tópicos importantes 
-#https://rafaellucas123/rafaellucas.github.io
+#http://rafaellucas123/rafaellucas.github.io
